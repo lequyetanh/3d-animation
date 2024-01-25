@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T03:11:40.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_bWZvEbuwQRuU9RK5iei" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T03:42:04.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="d3mNcNzMjpar0_vhV5XZ" version="23.0.1" type="github">
   <diagram name="Page-1" id="W6BpzEv16MAJhRhaiUyZ">
     <mxGraphModel dx="2359" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="hlf8Bue14rJlYk9naQkS-3" value="customer-order module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="270" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hlf8Bue14rJlYk9naQkS-7" value="convert point component&lt;br&gt;pos invoice component&lt;br&gt;base form customer order component" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="220" width="240" height="160" as="geometry" />
+        <mxCell id="hlf8Bue14rJlYk9naQkS-7" value="convert point component&lt;br&gt;pos invoice component&lt;br&gt;discount tax product component&lt;br&gt;base form customer order component" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="220" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="hlf8Bue14rJlYk9naQkS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hlf8Bue14rJlYk9naQkS-8" target="hlf8Bue14rJlYk9naQkS-7">
           <mxGeometry relative="1" as="geometry" />
@@ -40,10 +40,10 @@
         <mxCell id="hlf8Bue14rJlYk9naQkS-13" value="xăng dầu module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="430" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hlf8Bue14rJlYk9naQkS-15" value="confirm checkout component&lt;br&gt;discount tax order component&lt;br&gt;discount tax product component&lt;br&gt;product topping component&lt;br&gt;product voucher component&lt;br&gt;regular sale component" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hlf8Bue14rJlYk9naQkS-15" value="confirm checkout component&lt;br&gt;discount tax product component&lt;br&gt;product topping component&lt;br&gt;product voucher component&lt;br&gt;regular sale component" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-45" y="520" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="hlf8Bue14rJlYk9naQkS-17" value="&lt;br&gt;discount tax product component&lt;br&gt;petrolimex sale component" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hlf8Bue14rJlYk9naQkS-17" value="&lt;br&gt;&lt;br&gt;petrolimex sale component" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="520" width="240" height="160" as="geometry" />
         </mxCell>
       </root>
